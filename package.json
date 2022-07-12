@@ -1,0 +1,10 @@
+{
+  "name": "html5up-dimension",
+  "version": "1.0.0",
+  "dependencies": {
+
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
